@@ -1,0 +1,2 @@
+net.omayma.ext.DaoImplV2
+net.omayma.metier.metierImpl
